@@ -1,0 +1,5 @@
+pandas>=2.0
+openlineage-python>=0.7.0
+dvc>=2.0
+pyyaml
+pytest

@@ -1,0 +1,5 @@
+id,text,label
+1,Hello world,positive
+2,This is a sample,neutral
+3,Another example,negative
+4,Hello world,positive
